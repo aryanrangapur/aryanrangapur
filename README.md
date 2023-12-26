@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://jeppbautista.files.wordpress.com/2019/03/nural-network-banner.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanrangapur&label=Profile%20views&color=0e75b6&style=flat" alt="aryanrangapur" /> </p>
 
-- 🌱 I’m currently learning **Machine learning, Deep Learning**
+- 🌱 I’m currently learning **: Machine learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryan-rangapur-83834b253/](https://www.linkedin.com/in/aryan-rangapur-83834b253/)
 
-- 💬 Ask me about **aiml**
+- 💬 Ask me about **: aiml**
 
-- ⚡ Fun fact **Love movies 🎞️**
+- ⚡ Fun fact **: Love movies 🎞️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
