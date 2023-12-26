@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryan-rangapur-83834b253/](https://www.linkedin.com/in/aryan-rangapur-83834b253/)
 
-- 💬 Ask me about **: aiml**
+- 💬 Ask me about **: aiml, data analysis**
 
 - ⚡ Fun fact **: Love movies 🎞️**
 
