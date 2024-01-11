@@ -3,7 +3,7 @@
 <p align="center">A passionate learner in machine learning, deep learning, and data visualization, striving to unravel the complexities of data through innovative techniques and visual interpretation.</p>
 <img align="right" alt="Coding" width="400" src="https://jeppbautista.files.wordpress.com/2019/03/nural-network-banner.gif">
 # 💫 About Me:
-🌱 I’m currently learning : Machine learning, Deep Learning<br><br>My Website: https://aryanrangapur.github.io/portfolio/ <br><br>👨‍💻 All of my projects are available at https://www.linkedin.com/in/aryan-rangapur-83834b253/<br><br>💬 Ask me about : Machine learning, Convolutional Neural Networks, Computer vision,deep learning and data analysis<br><br>⚡ Fun fact : Love movies 🎞️
+🌱 I’m currently learning : Machine learning, Deep Learning<br><br>My Website: https://aryanrangapur.github.io/portfolio/ <br><br>👨‍💻 All of my projects are available at https://www.linkedin.com/in/aryan-rangapur-83834b253/<br><br>💬 Ask me about : Machine learning, Convolutional Neural Networks, Computer vision, deep learning and data analysis<br><br>⚡ Fun fact : Love movies 🎞️
 
 
 ## 🌐 Socials:
