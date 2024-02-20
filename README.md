@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/aryanrangapur/aryanrangapur/blob/main/IMG_2092.gif)
-<h1 align="center">Hi 👋, I'm Aryan Rangapur</h1>
+<h1 align="center">Aryan Rangapur</h1>
 <p align="center">A passionate learner in machine learning, deep learning, and data visualization, striving to unravel the complexities of data through innovative techniques and visual interpretation.</p>
 <img align="right" alt="Coding" width="400" src="https://jeppbautista.files.wordpress.com/2019/03/nural-network-banner.gif">
 
