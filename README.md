@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://jeppbautista.files.wordpress.com/2019/03/nural-network-banner.gif">
 
 ## About Me:
- I’m currently learning : Machine learning, Deep Learning<br><br>My Website: https://aryanrangapur.github.io/portfolio/ <br><br> All of my projects are available at https://www.linkedin.com/in/aryanrangapur/<br><br> Ask me about : Machine learning, Convolutional Neural Networks, Computer vision, deep learning and data analysis<br><br> Fun fact : Love movies 🎞
+ I’m currently learning : Machine learning, Deep Learning, MERN, CyberSec<br><br>My Website: https://aryanrangapur.github.io/portfolio/ <br><br>
 
 
 ## Socials:
