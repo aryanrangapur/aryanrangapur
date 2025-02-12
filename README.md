@@ -14,11 +14,12 @@
 
 ## About Me
 
-I’m currently learning: 
+I’m Into: 
 - **Machine Learning**
 - **Deep Learning**
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - **Cybersecurity**
+- **DevOps**
 
 My Website: [Visit Portfolio](https://aryanrangapur.github.io/portfolio/)
 
