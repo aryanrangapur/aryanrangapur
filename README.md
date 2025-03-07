@@ -8,7 +8,7 @@
 <h1 align="center">Aryan Rangapur</h1> 
 
 <p align="center">
-  A passionate learner in <strong>Machine Learning, Deep Learning, Data Visualization</strong>, and <strong>Cybersecurity</strong>, striving to unravel the complexities of data through innovative techniques and visual interpretation.
+Learning, kinda… mostly just trying things and hoping for the best.
 </p>
 
 
