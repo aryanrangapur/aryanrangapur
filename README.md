@@ -23,5 +23,7 @@ I’m Into:
 
 
 
-My Website: [Dive in!](https://aryanrangapur.github.io/portfolio/)
+MY : [WEBSITE](https://aryanrangapur.github.io/portfolio/)
+
+<img src="https://raw.githubusercontent.com/slanja/slanja/output/snake.svg" alt="I Love Cakes!" />
 
