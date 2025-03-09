@@ -17,7 +17,6 @@ Learning, kinda… mostly just trying things and hoping for the best.
 I’m Into: 
 - **Cybersecurity**
 - **DevOps**
-- **Machine Learning**
 - **Deep Learning**
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 
