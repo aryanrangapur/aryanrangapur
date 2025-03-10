@@ -18,7 +18,7 @@ I’m Into:
 - **Cybersecurity**
 - **DevOps**
 - **Deep Learning**
-- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- **Software Related Stuff** 
 
 
 
