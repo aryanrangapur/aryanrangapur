@@ -22,8 +22,8 @@ I’m Into:
 
 
 
-**Behold, The Greatest Website Ever (Not Really)** : [Click Me](https://aryanrangapur.github.io/portfolio/)
-> *(Government might be watching, so act casual.)*
+**The Greatest Website Ever** : [Click Me](https://aryanrangapur.github.io/portfolio/)
+> *(Not so great portfolio.)*
 
 
 <img src="https://raw.githubusercontent.com/slanja/slanja/output/snake.svg" alt="I Love Cakes!" />
