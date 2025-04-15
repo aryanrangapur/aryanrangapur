@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/aryanrangapur/aryanrangapur/blob/main/IMG_2092.gif" alt="Master Head" />
+  <img src="https://github.com/aryanrangapur/aryanrangapur/blob/main/IMG_2092.gif" alt="Me all-time" />
 </p>
 
 <h1 align="center">Aryan Rangapur</h1> 
@@ -22,8 +22,8 @@ I’m Into:
 
 
 
-**The Greatest Website Ever** : [Click Me](https://aryanrangapur.github.io/portfolio/)
-> *(Not so great portfolio.)*
+**The #$!@%^ Website Ever** : [Click Me](https://aryanrangapur.github.io/portfolio/)
+> *(portfolio)*
 
 
 <img src="https://raw.githubusercontent.com/slanja/slanja/output/snake.svg" alt="I Love Cakes!" />
