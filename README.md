@@ -22,8 +22,9 @@ I’m Into:
 
 
 
-**The #$!@%^ Website Ever** : [Click Me](https://aryanrangapur.github.io/portfolio/)
-> *(portfolio)*
+The Best Portfolio Ever : [Click Me](https://aryanrangapur.github.io/portfolio/)
+
+> *(lol, jus' kidding)*
 
 
 <img src="https://raw.githubusercontent.com/slanja/slanja/output/snake.svg" alt="I Love Cakes!" />
