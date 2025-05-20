@@ -22,9 +22,9 @@ I’m Into:
 
 
 
-The Best Portfolio Ever : [Click Me](https://aryanrangapur.github.io/portfolio/)
+Jump in to my porto : [I'm Here](https://aryanrangapur.github.io/portfolio/)
 
-> *(lol, jus' kidding)*
+
 
 
 <img src="https://raw.githubusercontent.com/slanja/slanja/output/snake.svg" alt="I Love Cakes!" />
