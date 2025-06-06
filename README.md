@@ -22,7 +22,7 @@ I’m Into:
 
 
 
-Jump in to my porto : [I'm Here](https://aryanrangapur.github.io/portfolio/)
+Jump into my porto : [I'm Here](https://aryanrangapur.github.io/portfolio/)
 
 
 
