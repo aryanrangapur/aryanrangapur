@@ -7,8 +7,9 @@
 
 <h1 align="center">Aryan Rangapur</h1> 
 
+<p align="center"> Learning. </p>
 <p align="center">
-Learning, kinda… mostly just trying things and hoping for the best.
+kinda… mostly just trying things and hoping for the best.
 </p>
 
 
