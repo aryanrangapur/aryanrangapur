@@ -15,9 +15,9 @@ Learning, kinda… mostly just trying things and hoping for the best.
 ## About Me
 
 I’m Into: 
-- **Cybersecurity**
 - **DevOps**
 - **Deep Learning**
+- **Security**
 - **Software Related Stuff** 
 
 
