@@ -7,7 +7,7 @@
 
 <h1 align="center">Aryan Rangapur</h1> 
 
-<p align="center"> Learning </p>
+<p> Learning & Growing </p>
 
 
 
